@@ -1,0 +1,23 @@
+{
+  "template": "https://github.com/quinn-p-mchugh/cookiecutter-python",
+  "commit": "50859c5252bc61905c091eb973b421d489c7997e",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_title": "Zotero Group Items By URL Domain",
+      "project_name": "zotero-group-items-by-url-domain",
+      "package_name": "zotero_group_items_by_url_domain",
+      "description": "Generates a list of Zotero collections based on the URL domain of each Zotero item.",
+      "author_name": "Quinn McHugh",
+      "email": "qpmchugh@gmail.com",
+      "github_user": "quinn-p-mchugh",
+      "version": "0.1.0",
+      "copyright_year": "2023",
+      "license": "MIT",
+      "use_mkdocs": false,
+      "add_click_cli": false,
+      "_template": "https://github.com/quinn-p-mchugh/cookiecutter-python"
+    }
+  },
+  "directory": null
+}
